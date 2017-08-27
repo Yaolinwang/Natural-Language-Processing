@@ -1,0 +1,11 @@
+1. Download and Stanford CoreNLP. https://stanfordnlp.github.io/CoreNLP/download.html
+
+2. Go to the directory. For example, in Windows command line
+   cd stanford-corenlp-full-2016-10-31/stanford-corenlp-full-2016-10-31/
+
+3. Update your java: https://java.com/en/download/windows-64bit.jsp
+
+4. In windows command line, run the below:
+   java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
+
+5. Run the code in Standord CoreNLP Sentiment anlysis.ipynb.
