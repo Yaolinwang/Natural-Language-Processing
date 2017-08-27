@@ -1,2 +1,3 @@
-# Natural-Language-Processing
-Codes and materials for Natural Language Processing
+# Natural Language Processing
+
+This repository holds my codes and learning materials for Natural Language Processing.
